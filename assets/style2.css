@@ -2,19 +2,20 @@
   background-color: gray;
 }
 
-.about {
-  color: black;
-  border-style: solid;
-}
 
 .container-fluid {
   ;
 }
 
-body {
-  background-color: orchid;
+.navbar-brand {
+  color: black;
 }
 
 .container {
   background-color: rgb(223, 223, 223);
+}
+
+.me {
+  border-style: solid;
+  margin-bottom: 60px;
 }
