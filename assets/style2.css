@@ -3,10 +3,6 @@
 }
 
 
-.container-fluid {
-  ;
-}
-
 .navbar-brand {
   color: black;
 }
@@ -18,4 +14,12 @@
 .me {
   border-style: solid;
   margin-bottom: 60px;
+}
+
+.about {
+  margin-left: 50px;
+}
+
+.header {
+ 
 }
