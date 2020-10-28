@@ -2,3 +2,21 @@
   font-size: xx-large;
   color: black;
 }
+
+.name {
+  padding-left: 325px;
+  font-size: xx-large;
+}
+
+.container {
+  background-color: rgb(216, 216, 216);
+}
+
+.me {
+  border-style: solid;
+  margin-bottom: 60px;
+}
+
+.about {
+  margin-left: 50px;
+}
