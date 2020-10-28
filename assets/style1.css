@@ -1,4 +1,4 @@
-.navbar-brand {
+/* .navbar-brand {
   font-size: xx-large;
   color: black;
 }
@@ -19,4 +19,24 @@
 
 .about {
   margin-left: 50px;
+} */
+
+.jumbotron {
+  text-align: center;
+}
+
+.more {
+
+  font-size: xx-large;
+  border-top: black; 
+}
+
+.learn {
+  border: solid;
+  margin: 50px 20px
+}
+
+.about {
+  text-align: center;
+  padding-top: 150px;
 }
