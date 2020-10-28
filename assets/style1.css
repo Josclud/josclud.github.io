@@ -33,10 +33,15 @@
 
 .learn {
   border: solid;
+  padding: 0px 20px;
   margin: 50px 20px
 }
 
 .about {
   text-align: center;
   padding-top: 150px;
+}
+
+.molly {
+  padding: 0px 50px;
 }
