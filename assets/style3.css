@@ -6,3 +6,13 @@
 .jumbotron {
   text-align: center;
 }
+
+.contact {
+  padding-left: 100px
+}
+
+@include media-breakpoint-up(sm) {
+  .contact {
+    display: block;
+  }
+}
